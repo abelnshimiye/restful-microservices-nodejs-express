@@ -1,12 +1,12 @@
 ## RESTful Microservices Using Node.js and Express - Practical Exercises and Exams
-Overview
+# Overview
 This repository contains all the practical exercises and exam solutions I completed during the RESTful Microservices Using Node.js and Express Specialization on Coursera. This course provided in-depth knowledge on building scalable, maintainable, and efficient microservices using the Node.js ecosystem, specifically leveraging Express.js.
 
 The projects within this repository demonstrate key concepts in REST API development, microservice architecture, and best practices for deploying Node.js applications. These exercises span across the various modules of the specialization, including foundational topics, API routing, middleware, databases, authentication, and microservice communication.
 
-Key Features
-Node.js & Express: The foundation of each service is built using Node.js and Express, ensuring lightweight and efficient server-side applications.
-RESTful API Design: All services follow the RESTful design principles for building stateless, scalable APIs.
+# Key Features
+- Node.js & Express: The foundation of each service is built using Node.js and Express, ensuring lightweight and efficient server-side applications.
+- RESTful API Design: All services follow the RESTful design principles for building stateless, scalable APIs.
 Authentication & Authorization: Implementation of token-based authentication (JWT) for securing APIs.
 Database Integration: Practical integration with databases such as MongoDB and MySQL for storing and retrieving data.
 Error Handling: Comprehensive error-handling mechanisms ensuring robust and reliable services.
