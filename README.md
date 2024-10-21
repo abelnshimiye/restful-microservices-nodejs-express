@@ -7,16 +7,16 @@ The projects within this repository demonstrate key concepts in REST API develop
 # Key Features
 - Node.js & Express: The foundation of each service is built using Node.js and Express, ensuring lightweight and efficient server-side applications.
 - RESTful API Design: All services follow the RESTful design principles for building stateless, scalable APIs.
-Authentication & Authorization: Implementation of token-based authentication (JWT) for securing APIs.
-Database Integration: Practical integration with databases such as MongoDB and MySQL for storing and retrieving data.
-Error Handling: Comprehensive error-handling mechanisms ensuring robust and reliable services.
-Testing: Unit and integration tests using tools like Mocha and Chai to ensure the reliability of the services.
-Microservices Architecture: Real-world microservice communication with techniques like message queues and service discovery.
-Docker: Containerization of microservices for easy deployment and scaling.
-Course Overview
+- Authentication & Authorization: Implementation of token-based authentication (JWT) for securing APIs.
+- Database Integration: Practical integration with databases such as MongoDB and MySQL for storing and retrieving data.
+- Error Handling: Comprehensive error-handling mechanisms ensuring robust and reliable services.
+- Testing: Unit and integration tests using tools like Mocha and Chai to ensure the reliability of the services.
+- Microservices Architecture: Real-world microservice communication with techniques like message queues and service discovery.
+- Docker: Containerization of microservices for easy deployment and scaling.
+# Course Overview
 This specialization consisted of the following courses:
 
-Introduction to RESTful Microservices: Basics of RESTful APIs, HTTP methods, and Express.js.
+1. Introduction to RESTful Microservices: Basics of RESTful APIs, HTTP methods, and Express.js.
 Microservices Architecture: Designing, building, and managing distributed microservices.
 Securing RESTful Microservices: Implementing secure communication using JWT tokens.
 Microservice Communication: Exploring synchronous and asynchronous communication between microservices using REST and message brokers.
