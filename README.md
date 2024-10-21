@@ -17,30 +17,30 @@ The projects within this repository demonstrate key concepts in REST API develop
 This specialization consisted of the following courses:
 
 1. Introduction to RESTful Microservices: Basics of RESTful APIs, HTTP methods, and Express.js.
-Microservices Architecture: Designing, building, and managing distributed microservices.
-Securing RESTful Microservices: Implementing secure communication using JWT tokens.
-Microservice Communication: Exploring synchronous and asynchronous communication between microservices using REST and message brokers.
-Deploying Microservices: Packaging and deploying microservices using Docker and container orchestration tools.
-Project List
-Practical Exercises
-Basic CRUD API:
+2.Microservices Architecture: Designing, building, and managing distributed microservices.
+3. Securing RESTful Microservices: Implementing secure communication using JWT tokens.
+4. Microservice Communication: Exploring synchronous and asynchronous communication between microservices using REST and message brokers.
+5. Deploying Microservices: Packaging and deploying microservices using Docker and container orchestration tools.
+# Project List
+# Practical Exercises
+1. Basic CRUD API:
 
-Developed a RESTful API with CRUD operations using Express.js.
-Integrated MongoDB for database management.
-User Authentication Service:
+- Developed a RESTful API with CRUD operations using Express.js.
+- Integrated MongoDB for database management.
+2. User Authentication Service:
 
-Built a user management service with JWT authentication.
-Includes sign-up, login, and secure user access.
-Product Management Microservice:
+- Built a user management service with JWT authentication.
+- Includes sign-up, login, and secure user access.
+3. Product Management Microservice:
 
-Created a product microservice with validation, pagination, and filtering capabilities.
-Database integration with MySQL.
-Order Processing Microservice:
+- Created a product microservice with validation, pagination, and filtering capabilities.
+- Database integration with MySQL.
+4. Order Processing Microservice:
 
-Implemented an order processing service that interacts with the product service using HTTP calls.
-Includes Docker containerization.
-Final Exam Projects
-Comprehensive Microservice Application:
-Designed and developed a multi-service application where the services interact with each other.
-Implemented inter-service communication and fault tolerance strategies.
-Deployed the entire microservices stack using Docker Compose.
+- Implemented an order processing service that interacts with the product service using HTTP calls.
+- Includes Docker containerization.
+# Final Exam Projects
+- Comprehensive Microservice Application:
+-- Designed and developed a multi-service application where the services interact with each other.
+-- Implemented inter-service communication and fault tolerance strategies.
+-- Deployed the entire microservices stack using Docker Compose.
