@@ -1,0 +1,15 @@
+{
+  "name": "practrice",
+  "version": "1.0.0",
+  "description": ". write a program to built a RESTful API using HTTP method -GET \r . GET - get all the user details\r . Create routes with appropriate route handlers to handle all the above given requirement.\r . Use error and the express.json() body parser middleware.\r .Follow the structure and modularize the code by using the router, controler, DAO, and service layers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

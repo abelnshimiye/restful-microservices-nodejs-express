@@ -1,0 +1,17 @@
+{
+  "name": "exercice",
+  "version": "1.0.0",
+  "description": "1. Start with express web server\r 2. Add configuration for MysQL database\r 3. Create Product model\r 4. Write the controller\r 5. Define router for handling all CRUD operations\r 6. Test the application with postman tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
