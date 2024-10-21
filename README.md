@@ -1,4 +1,4 @@
-RESTful Microservices Using Node.js and Express - Practical Exercises and Exams
+## RESTful Microservices Using Node.js and Express - Practical Exercises and Exams
 Overview
 This repository contains all the practical exercises and exam solutions I completed during the RESTful Microservices Using Node.js and Express Specialization on Coursera. This course provided in-depth knowledge on building scalable, maintainable, and efficient microservices using the Node.js ecosystem, specifically leveraging Express.js.
 
