@@ -40,7 +40,7 @@ This specialization consisted of the following courses:
 - Implemented an order processing service that interacts with the product service using HTTP calls.
 - Includes Docker containerization.
 # Final Exam Projects
-- Comprehensive Microservice Application:
--- Designed and developed a multi-service application where the services interact with each other.
--- Implemented inter-service communication and fault tolerance strategies.
--- Deployed the entire microservices stack using Docker Compose.
+# Comprehensive Microservice Application:
+- Designed and developed a multi-service application where the services interact with each other.
+- Implemented inter-service communication and fault tolerance strategies.
+- Deployed the entire microservices stack using Docker Compose.
